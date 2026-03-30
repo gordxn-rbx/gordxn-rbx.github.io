@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[832],{4410:s=>{s.exports=JSON.parse('{"sourceUrl":"https://github.com/gordxn-rbx/utilities/blob/master","baseUrl":"/utilities/","classOrder":[{"section":"SignaLuau","classes":["Signal","SignalConnection"]}],"apiCategories":[]}')}}]);
